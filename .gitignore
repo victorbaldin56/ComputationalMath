@@ -16,6 +16,7 @@ __pycache__/
 
 # Generated tests / data
 *.dat
+*.DS_Store
 
 # Conan
 CMakeUserPresets.json
